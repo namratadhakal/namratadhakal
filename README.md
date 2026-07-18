@@ -24,6 +24,7 @@ Currently, I'm building projects in **Microsoft Excel, SQL, Python, and Power BI
 
 ---
 
-## 📫 Contact
-Linkedin:  in/namratadhkl
-Mail : namru009@gmail.com
+## Connect with Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/namratadhkl/
+- 📧 Email: namru009@gmail.com
