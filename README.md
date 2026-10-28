@@ -20,6 +20,7 @@ Currently, I'm building projects in **Microsoft Excel, SQL, Python, and Power BI
 ## Featured Projects
 
 -  Bike Purchase Analysis *(Excel Dashboard)*
+-  Supermarket data cleaning *(using sql)*
 -  More projects coming soon...
 
 ---
